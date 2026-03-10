@@ -7,4 +7,4 @@
 
 📚 A aprofundar estudos na área de redes e cibersegurança  
 
-📫 LinkedIn: https://www.linkedin.com/in/vasco-cola%C3%A7o-b1a782295/
+📫 LinkedIn: https://www.linkedin.com/in/vasco-colaco/
