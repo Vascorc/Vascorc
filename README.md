@@ -1,10 +1,8 @@
-## 👋 Eu sou o Vasco
+## Hi, I'm Vasco
 
-🎓 Estudante de Engenharia Informática  
+🎓 **BSc in Computer Engineering**  
+🔐 **MSc Student in Cybersecurity and Digital Forensics**  
 
-💻 HTML | CSS | JavaScript | SQL  
-🚀 Desenvolvimento de aplicações web (front-end e back-end)  
+🎯 **Areas of Interest:** IoT | Computer Networks | Information Security  
 
-📚 A aprofundar estudos na área de redes e cibersegurança  
-
-📫 LinkedIn: https://www.linkedin.com/in/vasco-colaco/
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vasco-colaco/)
